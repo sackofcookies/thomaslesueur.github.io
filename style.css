@@ -71,6 +71,7 @@ h3 {
     padding: 1em;
     box-shadow: black 2px 2px;
     font-family: "Times New Roman", Georgia, serif;
+    font-size: 1.75em;
 }
 .image {
     box-shadow: black 2px 2px;
@@ -78,3 +79,13 @@ h3 {
     border: 0.5em solid #07753f;
 }
 
+#split ul {
+    width: 70%;
+    background-color: #07753f;
+    border-radius: 1em 1em;
+    padding: 1em;
+    padding-left: 2.5em;
+    box-shadow: black 2px 2px;
+    font-family: "Times New Roman", Georgia, serif;
+    font-size: 1.5em;
+}
