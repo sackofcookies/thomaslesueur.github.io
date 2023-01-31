@@ -64,8 +64,8 @@ h3 {
     padding-left: 5%;
     padding-right: 5%;
 }
-#split p {
-    width: 60%;
+p {
+    
     background-color: #07753f;
     border-radius: 1em 1em;
     padding: 1em;
@@ -88,4 +88,8 @@ h3 {
     box-shadow: black 2px 2px;
     font-family: "Times New Roman", Georgia, serif;
     font-size: 1.5em;
+}
+
+#split p {
+    width: 60%;
 }
